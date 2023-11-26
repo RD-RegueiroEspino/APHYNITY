@@ -1,0 +1,13 @@
+name: aphynity
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - python==3.11
+  - torchvision
+  - torchdiffeq
+  - matplotlib
+  - scipy
+  - numpy
+  - requests
