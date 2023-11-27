@@ -1,0 +1,5 @@
+train_aphynity.py pendulum --phy incomplete --aug
+[10][10/50000][1/1] | loss: 2.63e-01 | loss_op: 2.36e-01 | param_error: 7.99e-01 | omega0_square: 2.21e-01 | omega0_square_real: 1.10e+00
+[20][20/50000][1/1] | loss: 2.34e-01 | loss_op: 2.57e-01 | param_error: 7.97e-01 | omega0_square: 2.23e-01 | omega0_square_real: 1.10e+00
+[30][30/50000][1/1] | loss: 1.94e-01 | loss_op: 2.30e-01 | param_error: 7.95e-01 | omega0_square: 2.25e-01 | omega0_square_real: 1.10e+00
+[40][40/50000][1/1] | loss: 1.23e-01 | loss_op: 2.28e-01 | param_error: 7.91e-01 | omega0_square: 2.29e-01 | omega0_square_real: 1.10e+00
